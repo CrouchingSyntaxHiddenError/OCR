@@ -1,4 +1,4 @@
-Daniel Millson
+John Doe
 CMSC 389: Artificial Intelligence
 Project 3: Optical Character Recognition
 
