@@ -1,0 +1,184 @@
+Results from running OCR:
+	Number of hidden nodes:25
+	Number of epochs: 1
+	Learning rate: 0.2
+	Results:
+		Number correct:		8696/10000 (86.96%)
+		Number incorrect:	1304/10000 (13.04%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:25
+	Number of epochs: 1
+	Learning rate: 0.2
+	Results:
+		Number correct:		8768/10000 (87.68%)
+		Number incorrect:	1232/10000 (12.32%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:10
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		8535/10000 (85.35%)
+		Number incorrect:	1465/10000 (14.65%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:0
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		980/10000 (9.8%)
+		Number incorrect:	9020/10000 (90.2%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:0
+	Number of epochs: 3
+	Learning rate: 0.3
+	Results:
+		Number correct:		980/10000 (9.8%)
+		Number incorrect:	9020/10000 (90.2%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		8564/10000 (85.64%)
+		Number incorrect:	1436/10000 (14.36%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 0.6
+	Results:
+		Number correct:		8860/10000 (88.6%)
+		Number incorrect:	1140/10000 (11.4%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 2
+	Learning rate: 0.6
+	Results:
+		Number correct:		8906/10000 (89.06%)
+		Number incorrect:	1094/10000 (10.94%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		8430/10000 (84.3%)
+		Number incorrect:	1570/10000 (15.7%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 1.3
+	Results:
+		Number correct:		8299/10000 (82.99%)
+		Number incorrect:	1701/10000 (17.01%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 2.3
+	Results:
+		Number correct:		4630/10000 (46.3%)
+		Number incorrect:	5370/10000 (53.7%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 2.3
+	Results:
+		Number correct:		6150/10000 (61.5%)
+		Number incorrect:	3850/10000 (38.5%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:0
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		980/10000 (9.8%)
+		Number incorrect:	9020/10000 (90.2%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 1
+	Learning rate: 0.3
+	Results:
+		Number correct:		8714/10000 (87.14%)
+		Number incorrect:	1286/10000 (12.86%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 3
+	Learning rate: 0.3
+	Results:
+		Number correct:		9025/10000 (90.25%)
+		Number incorrect:	975/10000 (9.75%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:15
+	Number of epochs: 6
+	Learning rate: 0.3
+	Results:
+		Number correct:		8975/10000 (89.75%)
+		Number incorrect:	1025/10000 (10.25%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:35
+	Number of epochs: 8
+	Learning rate: 0.5
+	Results:
+		Number correct:		9264/10000 (92.64%)
+		Number incorrect:	736/10000 (7.36%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:35
+	Number of epochs: 2
+	Learning rate: 0.5
+	Results:
+		Number correct:		9010/10000 (90.1%)
+		Number incorrect:	990/10000 (9.9%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:0
+	Number of epochs: 10
+	Learning rate: 0.5
+	Results:
+		Number correct:		980/10000 (9.8%)
+		Number incorrect:	9020/10000 (90.2%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:5
+	Number of epochs: 2
+	Learning rate: 0.5
+	Results:
+		Number correct:		7091/10000 (70.91%)
+		Number incorrect:	2909/10000 (29.09%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:150
+	Number of epochs: 2
+	Learning rate: 0.5
+	Results:
+		Number correct:		9122/10000 (91.22%)
+		Number incorrect:	878/10000 (8.78%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:150
+	Number of epochs: 1
+	Learning rate: 0.5
+	Results:
+		Number correct:		8986/10000 (89.86%)
+		Number incorrect:	1014/10000 (10.14%)
+	 ------ 
+Results from running OCR:
+	Number of hidden nodes:150
+	Number of epochs: 1
+	Learning rate: 0.5
+	Results:
+		Number correct:		8868/10000 (88.68%)
+		Number incorrect:	1132/10000 (11.32%)
+	 ------ 
